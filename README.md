@@ -1,4 +1,5 @@
 # Task Manager
+Version actuelle -- v1.0
 
 Application web de gestion de tâches réalisée avec React, Node.js, Express et PostgreSQL.
 
